@@ -18,3 +18,7 @@ My assumption is that the WAMP/XAMP server is installed and MySQL database is up
 #Comments:
 
 There is plenty of room for improvement inside the first commit - especially the UI/UX part and the defensive coding, related to manage all use cases. Deactivate the table’s record instead of actual deletion. Date on which record added/updated etc.
+
+#Admin Credential:
+Username: admin
+Password: admin
